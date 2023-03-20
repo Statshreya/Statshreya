@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Statshreya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning Statistics & Data Analysis✌️<br>
+### 🌱 I’m currently learning Statistics & Data Analysis✌️<br>
 
 
 ## 🌐 Socials:
