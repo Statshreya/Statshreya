@@ -14,5 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Statshreya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Statshreya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+![Shreya's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Statshreya&custom_title=Shreya's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
